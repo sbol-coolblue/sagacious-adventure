@@ -1,0 +1,8 @@
+C:\Users\gusta\Documents\Projects\BFG\UITests\bin\Debug\BFG.UITests.dll
+C:\Users\gusta\Documents\Projects\BFG\UITests\bin\Debug\BFG.UITests.pdb
+C:\Users\gusta\Documents\Projects\BFG\UITests\bin\Debug\nunit.framework.dll
+C:\Users\gusta\Documents\Projects\BFG\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\gusta\Documents\Projects\BFG\UITests\bin\Debug\nunit.framework.xml
+C:\Users\gusta\Documents\Projects\BFG\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\gusta\Documents\Projects\BFG\UITests\obj\Debug\BFG.UITests.dll
+C:\Users\gusta\Documents\Projects\BFG\UITests\obj\Debug\BFG.UITests.pdb
